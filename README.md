@@ -26,6 +26,7 @@ A real-time system monitoring dashboard that tracks CPU, memory, disk, battery, 
 ```bash
 git clone https://github.com/jeena-krishna/system-monitor.git
 cd system-monitor
+docker-compose up --build
 ```
 
 Open `http://localhost` in your browser.
